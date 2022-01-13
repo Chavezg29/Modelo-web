@@ -1,0 +1,41 @@
+	* {  font-family: "Consolas", monospace;  padding: 0.4em;  font-size: 105%;  text-align: justify;  margin-left: 10px;
+					margin-right: 10px;}
+	 
+	/*Toda la página*/
+
+	
+	#navegador ul{list-style-type: none; text-align: justify; text-decoration: none;  margin-right: 25px;}
+	#navegador li{display: inline; font-size: 100%; text-align: justify;  margin: 0 1px 0 0; text-shadow: 7px 4px 5px  #f0f3f4; 
+				margin-right: 20px;}
+	/*Barra de navegación*/
+	
+	
+	body { background-image: url("images/fondo.jpg"); background-attachment: fixed.; background-repeat: no-repeat; background-position: 120% 1%;
+			filter: saturate(100%);}
+	/*Imagen de fondo(logo)*/
+	
+	
+	#menu ul{list-style-type: none; text-align: center; background-color:  #f5cba7; text-decoration: none; margin-right: 70px;
+			margin-left: 1px; border-style: inset;}
+	#menu li{display: inline; font-size: 100%; color:  #0d47a1; text-align: justify; text-shadow: 4px 4px 4px     #d0d3d4; margin-left: 50px; 
+			margin-right: 20px;}
+	.imagen:hover {filter: opacity(.3);}
+	/*Navegador productos*/
+	
+	
+	.imagen:hover {webkit-transform:scale(0.1);transform:scale(0.9);}
+	.mayuscula {font-variant: small-caps; text-align: center; font-size: x-large;}
+	.texto { font-size: medium; text-align: justify;}
+	#header { width: 90%;  background-color:  #ffc107; height: 50px;}
+	#cajas {margin: auto; width: 980px; }
+	#primero {width: 290px; float: left; height: 650px;}
+	#segundo {width: 290px; float: left; height: 650px;}
+	#tercero {width: 290px; float: left; height: 650px;}
+	#cuarto {width: 290px; float: left; height: 740px;}
+	#quinto {width: 290px; float: left; height: 740px;}
+	#sexto {width: 290px; float: left; height: 740px;}
+	#séptimo {width: 290px; float: left; height: 300px;}
+	#octavo {width: 290px; float: left; height: 300px;}
+	#noveno {width: 290px; float: left; height: 300px;}
+	/*Estructura y diseño de productos*/
+	

@@ -1,0 +1,62 @@
+	* { font-family: "Constantia", serif;;  padding: 0.4em;  font-size: 105%;  text-align: justify;  margin-left: 30px;
+					margin-right: 30px;}
+	/*Toda la página*/
+	
+	
+	#titulo { font-size: 700%; font-weight: 400; text-align: center; font-style: italic; color:  #d35400; text-shadow:  3px 3px 5px   #FFCCFF, 3px 3px 5px  #330000; 
+			letter-spacing: 1px; }
+	/*Titulo Pagina*/
+	
+	
+	#navegador ul{text-align: center; } 
+	#navegador li{display: inline; font-size: 105%; text-align: center; font-size: x-large;}
+	/*Barra de navegación*/
+	
+	
+	body { background-image: url("images/fondo2.jpg"); background-attachment: fixed.; background-repeat: no-repeat; background-position: 102% 1%;} 
+	/*Imagen de fondo(logo)*/
+	
+	
+	.imágenes:hover {filter: grayscale(80%); }
+	/*Imagen de Portada*/
+	
+	
+	#principal {  font-size: 300%;  padding: 0.60em;  font-weight: 500; font-style: normal; text-align: left;}
+	/*Título del Blog*/
+	
+	
+	p.sangria {text-indent: 40px;}
+	/*Sangría de párrafos*/
+	
+	
+	.version1 { font-size: xx-large;  font-weight: bold;  padding: 0.5em;}
+	.version2 { font-size: x-large;  font-weight: bold;  padding: 0.8em;}
+	#centrar {text-align: center;}
+	/*Subtítulos h2*/
+	
+	
+	.imagen:hover {filter: opacity(.4);}
+	/*Lista de enlaces*/
+	
+	
+	.interlineado li {line-height: 90%; font-size: large; text-align: justify;}
+	.interlineado1 {line-height: 80%; font: oblique 85% monospace; border: 3px none; margin-left: 200px; background-color:  #f7f9f9;}
+	/*Tabla Precio productos y lista*/
+	
+	
+	.lista li { width: 500px; line-height: 100%;  line-height: 90%; font-size: large; background-color:  #ffebee; }
+	/*Lista de sugerencias*/
+	
+
+	
+	#registro {font-size: xx-large; text-shadow:  3px 3px 5px  #d0d3d4; margin-left: 400px; }
+	.diseño { margin-left: 200px; margin-right: 200px; font-size: large; border-color: #85929e;}
+	#enviar {margin-left: 220px; background-color:  #bfc9ca ; border-style: groove;}
+	.imagen:hover {filter: opacity(.5);}
+	.contenedor:hover .diseño {-webkit-transform:scale(0.1);transform:scale(0.9);}
+	/*Diseño formulario*/
+	
+	
+	.piepagina {font-size: medium; margin-left: 35px; text-align: center;}
+	/*Pie de pagina*/
+	

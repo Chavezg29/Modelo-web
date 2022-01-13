@@ -1,0 +1,22 @@
+	* { font-family: "Decorative", Garamond, 'Comic Sans';  padding: 0.4em;  font-size: 105%;  text-align: justify;  margin-left: 10px;
+					margin-right: 20px;}
+	 
+	/*Toda la página*/
+	
+	
+	.titulo { color: #ffca28 ; font-size: 750%; font-style: normal; padding: 0.3em; font-weight: 400; text-align: center; margin-left: 50px;
+				text-shadow:  3px 3px 5px   #17202a, 3px 3px 5px   #17202a  ;  letter-spacing: 3px;}
+	/*Título de la página*/
+	
+	
+	body { background-image: url("images/tes.jpg"); background-attachment: fixed.; background-repeat: no-repeat; background-position: 46% 1% ;
+				filter: saturate(105%);}
+				
+	
+	#navegador ul{list-style-type: none; text-align: center; text-decoration: none;  margin-left: 220px;  
+				margin-right: 220px;} 
+	#navegador li{display: inline; font-size: 120%; text-align: center; text-shadow: 7px 4px 5px # #f2f3f4;}
+	
+	
+	.piepagina {font-size: large; margin-left: 35px; text-align: center;}
+	/*Pie de pagina*/
